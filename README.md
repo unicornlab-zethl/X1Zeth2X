@@ -25,4 +25,3 @@ Currently taking Bachelours of Science (HONS) Computing in the University of Bol
 [![Kagawasan](https://github-readme-stats.vercel.app/api/pin/?username=konishi-project&repo=kagawasan&theme=dracula)](https://github.com/konishi-project/kagawasan)
 [![Lyvent](https://github-readme-stats.vercel.app/api/pin/?username=lyvent&repo=sopoxide&theme=dracula)](https://github.com/lyvent/sopoxide)
 [![IG.dv](https://github-readme-stats.vercel.app/api/pin/?username=X1Zeth2X&repo=ig.dv&theme=dracula)](https://github.com/X1Zeth2X/ig.dv)
-[![Astra](https://github-readme-stats.vercel.app/api/pin/?username=ProjectifyPlatform&repo=astra&theme=dracula)](https://github.com/ProjectifyPlatform/asta)
