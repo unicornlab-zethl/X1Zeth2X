@@ -4,8 +4,6 @@ I'm **Zeth Leonardo**, Most of my experience is in **Fullstack development** wit
 
 Currently taking Bachelours of Science (HONS) Computing in the University of Bolton.
 
-**[YouTube (Mostly gaming videos)](https://www.youtube.com/channel/UChj9pzo4ija_oXyIAyFxFIw)**
-
 ---
 
 - 🔭 I’m currently working on **Personal projects**.
