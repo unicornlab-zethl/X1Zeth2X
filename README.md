@@ -9,7 +9,7 @@ Currently taking Bachelours of Science (HONS) Computing in the University of Bol
 - 🔭 I’m currently working on **Personal projects**.
 - 🌱 I’m currently learning **Flutter - Desktop/Mobile development**.
 - 👯 I’m looking to collaborate on **FLOSS projects**.
-- 🤔 I’m looking for help with **Algorithms and Low level programming**.
+- 🤔 I’m looking for help with **Algorithms and low level programming**.
 - 💬 Ask me about **Web Development**.
 - 📫 How to reach me:
   [Twitter](https://twitter.com/x0zeth1x), [LinkedIn](https://www.linkedin.com/in/zeth-leonardo/)
