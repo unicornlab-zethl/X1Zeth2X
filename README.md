@@ -11,8 +11,6 @@ Currently taking Bachelours of Science (HONS) Computing in the University of Bol
 - 👯 I’m looking to collaborate on **FLOSS projects**.
 - 🤔 I’m looking for help with **Algorithms and low level programming**.
 - 💬 Ask me about **Web Development**.
-- 📫 How to reach me:
-  [Twitter](https://twitter.com/x0zeth1x), [LinkedIn](https://www.linkedin.com/in/zeth-leonardo/)
 
 ![Zeth's github stats](https://github-readme-stats.vercel.app/api?username=X1Zeth2X&show_icons=true&hide_border=true&theme=bear)
 
