@@ -12,8 +12,6 @@ Currently taking Bachelours of Science (HONS) Computing in the University of Bol
 - 🤔 I’m looking for help with **Algorithms and low level programming**.
 - 💬 Ask me about **Web Development**.
 
-![Zeth's github stats](https://github-readme-stats.vercel.app/api?username=X1Zeth2X&show_icons=true&hide_border=true&theme=bear)
-
 ## 📌 Pinned Repositories
 [![Zimmerman](https://github-readme-stats.vercel.app/api/pin/?username=konishi-project&repo=zimmerman&theme=dracula)](https://github.com/konishi-project/zimmerman)
 [![Flask-RestX-Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=X1Zeth2X&repo=flask-restx-boilerplate&theme=dracula)](https://github.com/X1Zeth2X/flask-restx-boilerplate)
