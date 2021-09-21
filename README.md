@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Zeth Leonardo**, Most of my experience is in **Fullstack development** with a demonstrated history of contributing to FOSS projects with other people. **Skilled in Vue JS, Python, NodeJS, MongoDB, REST API’s, MEVN Stack, Express JS, Flask, JavaScript, TypeScript, and more**.
+I'm **Zeth Leonardo**, Most of my experience is in **Fullstack development** with a demonstrated history of contributing to FOSS projects with other people. **Skilled in Vue JS, Python, NodeJS, MongoDB, REST API’s, ME(V/R)N Stack, Express JS, Flask, JavaScript, TypeScript, and more**.
 
 Currently taking Bachelours of Science (HONS) Computing in the University of Bolton.
 
